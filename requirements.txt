@@ -1,0 +1,17 @@
+Pillow
+PyPDF2
+beautifulsoup4
+cryptography
+Django
+dnspython
+exifread
+olefile
+pefile
+rarfile
+requests
+python-magic
+stegano
+tldextract
+whois
+pywin32; platform_system=='Windows'
+xhtml2pdf
